@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">IT114Watch</string>
+    <string name="text_load_heading">Load a new Collection of Watches</string>
+    <string name="text_asset_heading">Add a watch to the List from Asset Files</string>
+
+    <string name="opt1">Display Watches</string>
+    <string name="opt2">Load Watches</string>
+    <string name="opt3">Add from Asset</string>
+    <string name="opt4">Display from Serial Number</string>
+    <string name="opt5">Remove From List</string>
+    <string name="opt6">Average Price</string>
+    <string name="opt7">Number of Automatic Watches</string>
+    <string name="opt8">Display from Brand</string>
+    <string name="button_calcAvg">Calculate Price Average</string>
+    <string name="button_findWatch">Find Watch</string>
+    <string name="button_RemoveWatch">Remove Watch</string>
+    <string name ="button_findBrand">Sort by Brand</string>
+    <string name="initial_message">Watch Information: </string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_fileURL">Enter URL</string>
+    <string name="edit_serial">Enter Serial #</string>
+    <string name="edit_Brand">Enter Brand</string>
+    <string name="button_LoadText">Load New Watches</string>
+    <string name="calcAverage">Calculate the Average</string>
+    <string name="addAsset">Enter File: </string>
+    <string name="countWatches">Count the number of Automatic Watches</string>
+</resources>
